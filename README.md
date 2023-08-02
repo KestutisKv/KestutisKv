@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a former energy professional who has decided to seek new challenges in the field of data analytics. 💻
+
+
+
+
+
 
 Here are some ideas to get you started:
 
