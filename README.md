@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-## I am a former energy professional who has decided to seek new challenges in the field of data analytics. 💻
+I am a former energy professional who has decided to seek new challenges in the field of data analytics. 💻
 
 
+### Tools 🛠:
 
-
+### Contact me 🌐
 
 
 Here are some ideas to get you started:
@@ -21,9 +22,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adityajaiswal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
-<a href="https://instagram.com/m_aditya_jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/k%C4%99stutis-kvedaravi%C4%8Dius/" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-app-icon/linkedin-app-icon-24.jpg" alt="adityajaiswal7" height="40" width="40" /></a>
+  
+<a href="https://www.facebook.com/kestas.kvedaravicius/" target="blank"><img align="center" src="https://icon-library.com/images/facebook-icon-32-x-32/facebook-icon-32-x-32-4.jpg" alt="m_aditya_jaiswal" height="40" width="40" /></a>
+
+<a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://icon-library.com/images/gmail-icon-svg/gmail-icon-svg-27.jpg" alt="m_aditya_jaiswal" height="40" width="40" /></a>
 
 </p>
 
