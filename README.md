@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
 <a href="https://www.facebook.com/kestas.kvedaravicius/" target="blank"><img align="center" src="https://icon-library.com/images/facebook-icon-32-x-32/facebook-icon-32-x-32-4.jpg" alt="m_aditya_jaiswal" height="40" width="40" /></a>
 
-<a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://icon-library.com/images/gmail-icon-svg/gmail-icon-svg-27.jpg" alt="m_aditya_jaiswal" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://icon-library.com/images/gmail-icon-svg/gmail-icon-svg-27.jpg" alt="m_aditya_jaiswal" height="40" width="40" /></a>
 
 </p>
 
