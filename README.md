@@ -1,12 +1,34 @@
 ### Hi there 👋
 
-I am a former energy professional who has decided to seek new challenges in the field of data analytics. 💻
+https://logowik.com/content/uploads/images/google-bigquery6102.jpg    GOOGLE BIG QUERY
+https://icon-library.com/images/sql-icon/sql-icon-5.jpg    SQL
+https://www.svgrepo.com/show/303251/mysql-logo.svg      MY SQL
+https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png    TABLEAU
 
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/google-bigquery6102.jpg" height="100" width="130" /></a>     
+<a href="" target="blank"><img align="center" src="https://icon-library.com/images/sql-icon/sql-icon-5.jpg" height="50" width="50" /></a>     
+<a href="" target="blank"><img align="center" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="100" width="120" /></a>     
+<a href="" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" height="100" width="140" /></a>       
+</p>
+
+I am a former energy professional who has decided to seek new challenges in the field of data analytics. 💻
+- Learning :
+✨ Data Structures & Algorithms
+✨ Generative Adversarial Networks
+- Hobbies :
+✨ Gaming Addict
+✨ Watching Anime
+✨ Reading Light Novels
+✨ Badminton (Neighbourhood Professional XD
 
 ### Tools 🛠:
 
 ### Contact me 🌐
 
+https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/matrix.gif
+
+<a href="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/matrix.gif" target="blank"><img align="center" src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/matrix.gif" alt="adityajaiswal7" height="240" width="440" /></a> 
 
 Here are some ideas to get you started:
 
@@ -22,10 +44,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/k%C4%99stutis-kvedaravi%C4%8Dius/" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-app-icon/linkedin-app-icon-24.jpg" alt="adityajaiswal7" height="40" width="40" /></a>
-  
+<a href="https://www.linkedin.com/in/k%C4%99stutis-kvedaravi%C4%8Dius/" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-app-icon/linkedin-app-icon-24.jpg" alt="adityajaiswal7" height="40" width="40" /></a>     
 <a href="https://www.facebook.com/kestas.kvedaravicius/" target="blank"><img align="center" src="https://icon-library.com/images/facebook-icon-32-x-32/facebook-icon-32-x-32-4.jpg" alt="m_aditya_jaiswal" height="40" width="40" /></a>
-
 <a href="" target="blank"><img align="center" src="https://icon-library.com/images/gmail-icon-svg/gmail-icon-svg-27.jpg" alt="m_aditya_jaiswal" height="40" width="40" /></a>
 
 </p>
