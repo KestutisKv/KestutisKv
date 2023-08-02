@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a former energy professional who has decided to seek new challenges in the field of data analytics. 💻
+### I am a former energy professional who has decided to seek new challenges in the field of data analytics. 💻
 
 
 
