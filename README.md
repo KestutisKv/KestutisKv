@@ -1,9 +1,8 @@
 ### Hi there 👋
+I am a former energy professional who has decided to seek new challenges in the field of data analytics. 💻
 
-https://logowik.com/content/uploads/images/google-bigquery6102.jpg    GOOGLE BIG QUERY
-https://icon-library.com/images/sql-icon/sql-icon-5.jpg    SQL
-https://www.svgrepo.com/show/303251/mysql-logo.svg      MY SQL
-https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png    TABLEAU
+
+<a href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTY4eTF3aGcyNHhwcmFrNng5ampuazF3ZnByNnZpam1tZXNtZjR5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif" target="blank"><img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTY4eTF3aGcyNHhwcmFrNng5ampuazF3ZnByNnZpam1tZXNtZjR5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif" alt="adityajaiswal7" height="240" width="440" /></a> 
 
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/google-bigquery6102.jpg" height="100" width="130" /></a>     
@@ -12,15 +11,15 @@ https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png    TABLEAU
 <a href="" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" height="100" width="140" /></a>       
 </p>
 
-I am a former energy professional who has decided to seek new challenges in the field of data analytics. 💻
+
 - Learning :
-✨ Data Structures & Algorithms
-✨ Generative Adversarial Networks
+✨ Data analytict in Turing college from 2023 February. 
 - Hobbies :
 ✨ Gaming Addict
 ✨ Watching Anime
 ✨ Reading Light Novels
 ✨ Badminton (Neighbourhood Professional XD
+Martial arts, cycling, swimming, running, documentary films
 
 ### Tools 🛠:
 
