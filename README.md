@@ -3,7 +3,7 @@ I am a former energy sector professional who has decided to seek new challenges 
 
 <a href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTY4eTF3aGcyNHhwcmFrNng5ampuazF3ZnByNnZpam1tZXNtZjR5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif" target="blank"><img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTY4eTF3aGcyNHhwcmFrNng5ampuazF3ZnByNnZpam1tZXNtZjR5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif" alt="adityajaiswal7" height="300" width="500" /></a> 
 
-✨ Learning Data analytics in Turing college from 2023 February. 
+✨ Learning data analytics at Turing College from February 2023.
 
 💓 Hobbies: Martial arts, cycling, swimming, running, documentary films.
 
