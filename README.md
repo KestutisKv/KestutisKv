@@ -5,7 +5,7 @@ I am a former energy sector professional who has decided to seek new challenges 
 
 ✨ Learning data analytics at Turing College from February 2023.
 
-💓 Hobbies: Martial arts, cycling, swimming, running, documentary films.
+💓 Hobbies: Hiking, martial arts, cycling, swimming, running, documentary films.
 
 <h3 align="left">Connect me 🌐:</h3>
 <p align="left">
