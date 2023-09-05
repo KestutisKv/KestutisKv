@@ -28,6 +28,10 @@ I am a former energy sector professional who has decided to seek new challenges 
 
 https://public.tableau.com/views/Product_16939141457060/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
+⚡ Marketing analysis dashboard:
+
+https://public.tableau.com/app/profile/kestutis.kvedaravicius/viz/M4S2Marketingproject/Dashboard12
+
 ⚡ RFM dashboard:
 
 https://public.tableau.com/app/profile/kestutis.kvedaravicius/viz/shared/DNPRQNGWB
