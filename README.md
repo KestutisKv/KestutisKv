@@ -24,6 +24,10 @@ I am a former energy sector professional who has decided to seek new challenges 
   
 ### Couple of my projects 💻:
 
+⚡ Product analysis dashboard:
+
+https://public.tableau.com/views/M4S1kazkas/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
+
 ⚡ RFM dashboard:
 
 https://public.tableau.com/app/profile/kestutis.kvedaravicius/viz/shared/DNPRQNGWB
